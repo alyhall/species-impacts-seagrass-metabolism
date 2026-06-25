@@ -1,7 +1,7 @@
 
 # Benthic metabolism of Chesapeake Bay seagrasses
 
-This dataset contains environmental variables, seagrass biomass metrics, and calculated benthic metabolism metrics for seagrass meadows (Zostera marina & Ruppia maritima) at sites in the lower Chesapeake Bay, Virginia. The data consist of one.csv files:
+This dataset contains environmental variables, seagrass biomass metrics, and calculated benthic metabolism metrics for seagrass meadows (Zostera marina & Ruppia maritima) at sites in the lower Chesapeake Bay, Virginia. The data consist of three .csv files:
 
 1) Seagrass_Metabolism_Dataframe.csv (individual chamber metabolic fluxes with all paired biotic and abiotic data for that incubation),
 
